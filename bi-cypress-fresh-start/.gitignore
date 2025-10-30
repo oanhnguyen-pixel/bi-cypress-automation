@@ -1,0 +1,13 @@
+# Dependencies and Configuration
+/node_modules
+/package-lock.json
+/npm-debug.log
+.env
+.DS_Store
+
+# Cypress specific directories and files
+/cypress/videos
+/cypress/screenshots
+/cypress/results
+/mochawesome-report
+/cypress/coverage

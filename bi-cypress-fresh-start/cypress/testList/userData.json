@@ -1,0 +1,15 @@
+
+{
+  "adminUser": {
+    "username": "oanhca1367+bi2.0.0@gmail.com",
+    "password": "Abcd@1234567",
+    "session_control": 0,
+    "role": "Admin"
+  },
+  "standardUser": {
+    "username": "standard.user@test.com",
+    "password": "Abcd@1234567",
+    "session_control": 1,
+    "role": "Standard"
+  }
+}
