@@ -1,0 +1,16 @@
+{
+  "test_run_list": [
+    {
+      "testID": "LOGIN-001",
+      "userKey": "adminUser",  
+      "sessionControl": 0,       
+      "description": "Verify login flow when forcing a new session (fresh login)."
+    }
+    ,{
+      "testID": "LOGIN-002",
+      "userKey": "standardUser",
+      "sessionControl": 1,       
+      "description": "Verify login flow speed when reusing an existing session."
+    }
+  ]
+}
