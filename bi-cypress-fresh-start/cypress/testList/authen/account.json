@@ -1,0 +1,16 @@
+{
+  "test_run_list": [
+    {
+      "testID": "ACCOUNT-001",
+      "userKey": "hyperAdmin",
+      "sessionControl": 0,
+      "description": "Create account successfully."
+    },
+    {
+      "testID": "ACCOUNT-002",
+      "userKey": "hyperAdmin",
+      "sessionControl": 1,
+      "description": "Assign application successfully"
+    }
+  ]
+}
